@@ -44,3 +44,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhimaharana&show_icons=true&locale=en" alt="abhimaharana" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhimaharana&" alt="abhimaharana" /></p>
+
+![snake gif](https://github.com/Abhimaharana/Abhimaharana/blob/output/github-snake-dark.svg)
